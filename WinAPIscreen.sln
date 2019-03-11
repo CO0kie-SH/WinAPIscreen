@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAPIscreen", "WinAPIscreen\WinAPIscreen.csproj", "{BED508A7-2A57-4485-B1DE-4874ECE96A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED508A7-2A57-4485-B1DE-4874ECE96A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED508A7-2A57-4485-B1DE-4874ECE96A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED508A7-2A57-4485-B1DE-4874ECE96A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED508A7-2A57-4485-B1DE-4874ECE96A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3F39CC-D93A-4719-84FA-7CCF1B7F1CD7}
+	EndGlobalSection
+EndGlobal
