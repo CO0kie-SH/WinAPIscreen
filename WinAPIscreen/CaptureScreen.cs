@@ -70,7 +70,8 @@ namespace WinAPIscreen
             var jpsEncodeer = GetEncoder(ImageFormat.Jpeg);
             //保存图片
             //string imgurl = @"/Content/Upload/" + guid + extension;
-            im.Save("D:\\aa\\1.jpg", jpsEncodeer, eps);
+            im.Save(jpgPath, jpsEncodeer, eps);
+
             //释放资源
             im.Dispose();
             ep.Dispose();
@@ -78,4 +79,4 @@ namespace WinAPIscreen
         }
     }
 }
-}
+
